@@ -1,0 +1,4 @@
+- 👋 ola, sou adrian
+- 👀 estou aprendendo
+- 🌱 Estou estudendo Pensamento Computacional
+- 📫 Email:
